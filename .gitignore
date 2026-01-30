@@ -1,8 +1,9 @@
 # Node.js
-node_modules
+node_modules/
 
 # Mac
 .DS_Store
 
 # Project
-dist
+dist/
+coverage/
